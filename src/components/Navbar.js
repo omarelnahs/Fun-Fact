@@ -1,5 +1,6 @@
 import React from "react"
 import logo from "../images/react-icon-small.png"
+import Split from "react-split"
 
 export default function Navbar(props) {
     return (
